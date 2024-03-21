@@ -2,8 +2,9 @@ button {
     font-size: 30px;
     text-align: center;
     padding: 20px 10px;
-    display: block;
     margin-bottom: 8px;
+    border: 4px solid rgba(238, 224, 233, 0.479);
+    display: block;
     background-color: rgb(224, 141, 245);
     color: white;
     
@@ -13,6 +14,7 @@ button {
     background-color: rgb(129, 63, 160);
     color: black;
 }
+
 .button2:hover {
     background-color: rgb(129, 63, 160);
     color: black;
